@@ -1,0 +1,12 @@
+{
+  "commands": [
+    {
+      "trigger": "open internship notes",
+      "response": "Your internship notes are ready."
+    },
+    {
+      "trigger": "start focus mode",
+      "response": "Focus mode started. I will keep responses brief."
+    }
+  ]
+}
